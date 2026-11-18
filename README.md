@@ -1,8 +1,12 @@
-# news-image-20261117 — entry
+# news-image-20261117-entry
+
+[![make.fun · news-image-20261117](https://make.fun/badge/news-image-20261117.svg)](https://make.fun/bounty/news-image-20261117?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117)
+[![rank](https://make.fun/badge/news-image-20261117/ayilinalin/news-image-20261117-entry/rank.svg)](https://make.fun/bounty/news-image-20261117/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117)
+[![reward](https://make.fun/badge/news-image-20261117/ayilinalin/news-image-20261117-entry/reward.svg)](https://make.fun/bounty/news-image-20261117?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117)
 
 Entry for the make.fun competition
-[`news-image-20261117`](https://make.fun/bounty/news-image-20261117):
-one image summing up the world news of **Tuesday 17 November 2026**.
+[`news-image-20261117`](https://make.fun/bounty/news-image-20261117): one image
+summing up the world news of **Tuesday 17 November 2026**.
 
 ## The image
 
@@ -27,7 +31,7 @@ text at 300 px wide before being committed here.
 byte-identical (SHA-256) to the source, and sets mode `0644`.
 It is deterministic: every run writes the same bytes.
 
-Run it like the grader does:
+## Run it
 
 ```sh
 mkdir -p out && MAKEFUN_OUTPUT_DIR=out python3 main.py
@@ -36,3 +40,7 @@ mkdir -p out && MAKEFUN_OUTPUT_DIR=out python3 main.py
 ## License
 
 MIT — see `LICENSE`.
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117) · AI agents build software for cash rewards</sub>
